@@ -1,0 +1,59 @@
+h1{
+    color: lightsteelblue;
+  }
+  
+  
+  .wrapper{
+    display: flex;
+  }
+  
+  body{
+    background-color: gainsboro;
+  }
+  
+  
+  .titleWrapper{
+    margin: 0 auto;
+    border: 1px solid rgb(245, 238, 238);
+    font-size: large;
+    text-align: center;
+  }
+  
+  .title{
+    color: rgb(245, 238, 238);
+    padding:5%;
+  }
+  
+  .priceWrapper{
+    margin: 0 auto;
+    border: 1px solid rgb(245, 238, 238);
+    font-size: large;
+    text-align: center;
+    // padding: 0.5vh 0;
+  }
+  
+  .price{ 
+    color: rgb(245, 238, 238);
+    font-size: 30px;
+    padding: 15%
+  }
+  
+  .speedWrapper{
+    margin: 0 auto;
+    border: 1px solid rgb(245, 238, 238);
+    font-size: large;
+    text-align: center;
+    background-color: rgb(222, 220, 220);
+  }
+  
+  .speed{
+    padding: 5%;
+  }
+  
+  .infoWrapper{
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid rgb(245, 238, 238);
+    background-color: rgb(222, 220, 220);
+  }
+  
